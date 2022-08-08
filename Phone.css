@@ -1,14 +1,19 @@
 #services{
-    flex-direction: column;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
 }
 .content{
     flex-direction: column;
+    margin-bottom: -82px;
+
 }
 #banner{
     width: 95vw;
 }
 .marquee{
-    direction: ltr;
+    /* direction: ltr;
+     */
+     height: 80px;
 }
 
 .heading div h1{
@@ -24,4 +29,9 @@
     /* align-items: center; */
     justify-content: center;
     
+}
+.box img{
+    height: 123px;
+    /* width: 180px; */
+
 }
