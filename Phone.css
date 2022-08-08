@@ -5,8 +5,23 @@
     flex-direction: column;
 }
 #banner{
-    width: 98vw;
+    width: 95vw;
 }
 .marquee{
     direction: ltr;
+}
+
+.heading div h1{
+    margin: -24px 0px;
+    
+}
+
+.heading{
+    height: 165px;
+}
+#logo {
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    
 }
