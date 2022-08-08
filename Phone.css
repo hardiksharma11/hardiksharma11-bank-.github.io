@@ -1,0 +1,12 @@
+#services{
+    flex-direction: column;
+}
+.content{
+    flex-direction: column;
+}
+#banner{
+    width: 98vw;
+}
+.marquee{
+    direction: ltr;
+}
